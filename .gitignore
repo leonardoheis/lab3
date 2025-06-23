@@ -175,4 +175,4 @@ cython_debug/
 
 data/*
 
-lightning_logs/*
+./notebook/lightning_logs/*
