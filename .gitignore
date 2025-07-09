@@ -176,3 +176,4 @@ cython_debug/
 data/*
 
 ./notebook/lightning_logs/*
+notebooks/AutogluonModels/*
